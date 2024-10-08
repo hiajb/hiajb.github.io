@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://hiajb.github.io/INr/sitemap.INr.gz
